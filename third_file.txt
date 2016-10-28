@@ -1,1 +1,1 @@
-This is my third file in my project.
+This is the third file that I added to my git project.
